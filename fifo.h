@@ -1,5 +1,5 @@
 /*
- * evlag 
+ * evlag
  * Copyright 2018 Filip Aláč
  *
  * This program is free software; you can redistribute it and/or modify
